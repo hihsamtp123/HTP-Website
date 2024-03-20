@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppon',sans-serif;
+    background: #000;
+
+}
+.cotainer{
+    max-width: 1080px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.container .heade-text span{
+    font-weight: 500px;
+    font-size: 500px;
+    background: #ff5323;
+}
